@@ -1,5 +1,4 @@
 # My-Digital-CV
-cv=curriculum vitae
 <img src ="Snapshots/01.png" width= "19%" height ="50%"> <img src ="Snapshots/02.png" width= "19%" height ="50%"> <img src ="Snapshots/03.png" width= "19%" height ="50%"> <img src ="Snapshots/04.png" width= "19%" height ="50%">
 <img src ="Snapshots/05.png" width= "19%" height ="50%">
 
